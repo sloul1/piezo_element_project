@@ -4,17 +4,17 @@
 
 Piezo elements are electromechanical transducers made from piezoelectric materials that convert mechanical energy into electrical energy and vice versa.  This bidirectional functionality relies on the [piezoelectric effect](https://en.wikipedia.org/wiki/Piezoelectricity), discovered in 1880 by the [Curie brothers](https://piezo.com/pages/history-of-piezoelectricity), where certain crystalline structures generate an electric charge when mechanically stressed and physically deform when an electric field is applied.  
 
-![Dirext and inverse piezo effect](./piezo_01_03_effects.png)
+![Dirext and inverse piezo effect](./images/piezo_01_03_effects_dm.png)
 
 
 Common materials used include natural crystals like quartz and synthetic ceramics such as lead zirconate titanate (PZT).  These elements typically consist of a piezoelectric layer sandwiched between conductive electrodes, often encapsulated for protection, and can be shaped as disks, rings, plates, or multilayer stacks to suit specific needs.
 
-![Piezo element structure and materials](./piezo_02_03_structure_materials.png)
+![Piezo element structure and materials](./images/piezo_02_03_structure_materials_dm.png)
 
 ## Piezo elements
 Piezo elements are available in various geometric shapes, including disks, rings, tubes, plates, spheres, and multilayer stacks, each engineered for specific energy conversion efficiencies.  
 
-![Piezo element shapes](./piezo_03_03_shapes.png)
+![Piezo element shapes](./images/piezo_03_03_shapes_dm.png)
 
 Single-plate types typically function as pressure or ultrasonic sensors, while multilayer stacks provide high force with minimal travel for actuators, and benders (bimorphs) offer large deflections for motors and valves.
 
