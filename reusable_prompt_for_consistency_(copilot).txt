@@ -1,0 +1,371 @@
+For publication consistency, use a fixed scientific infographic template and never change the grid, typography, spacing, or color mapping between figures.
+
+Recommended Layout Scheme (IEEE/Thesis Style)
+Canvas
+Aspect ratio: 16:9 (1920×1080, 3840×2160, or equivalent)
+Margin: 5% of canvas width
+Grid: 12-column layout
+Content area: centered and aligned to grid
++--------------------------------------------------+
+| Figure Title                                     |
+| Figure Description / Introduction                |
++--------------------------------------------------+
+|                                                  |
+|              Main Content Area                   |
+|                                                  |
++--------------------------------------------------+
+| Key Takeaway / Summary                           |
++--------------------------------------------------+
+
+Typography
+Title
+Font: Inter Bold, Aptos, Segoe UI, or Source Sans Pro
+Size: 40-48 pt
+Color: #E5E7EB
+
+Example:
+
+Figure 1: Direct and Inverse Piezoelectric Effects
+
+Section Headers
+28-32 pt
+Semibold
+
+Example:
+
+1. Mechanical Stress → Electrical Energy
+
+Body Text
+18-22 pt
+Color: #CBD5E1
+Labels
+16-18 pt
+Color: #E5E7EB
+Color System
+
+Never change colors across figures.
+
+Figure 1 Layout
+Proportions
++----------------------+----------------------+
+| Direct Effect        | Inverse Effect       |
+| 60% width            | 40% width            |
++----------------------+----------------------+
+| Key Takeaway                               |
++--------------------------------------------+
+
+
+Use:
+
+Blue = Direct effect
+Green = Inverse effect
+
+Keep identical object positions:
+
+Piezo element centered
+Force arrows vertical
+Voltmeter right side
+Explanation below
+Figure 2 Layout
+Proportions
++----------------------+----------------------+
+| Structure            | Materials            |
+| 50% width            | 50% width            |
++----------------------+----------------------+
+| Key Point                                  |
++--------------------------------------------+
+
+Left Column
+
+Exploded stack:
+
+Encapsulation
+     │
+Top Electrode
+     │
+Piezo Layer
+     │
+Bottom Electrode
+
+Right Column
+
+Fixed material cards:
+
++----------+----------+
+| Quartz   | PZT      |
++----------+----------+
+
+
+Both cards must always have:
+
+Image
+Key properties
+Typical applications
+
+in the same order.
+
+Figure 3 Layout
+Four Equal Panels
++--------+--------+--------+--------+
+| Disk   | Ring   | Plate  | Stack  |
++--------+--------+--------+--------+
+
+
+All panels should contain:
+
+Shape image
+Material callouts
+Dimensions
+Applications
+
+same top-to-bottom order.
+
+Consistent Visual Language
+Piezo Material
+
+Always:
+
+Silver ceramic body
+Gold electrodes
+Electrical
+
+Always:
+
+Voltage = Blue
+Positive charges = Orange/Red
+Negative charges = Cyan
+Mechanical
+
+Always:
+
+Force arrows = Orange
+Expansion arrows = Green
+Contraction arrows = Green
+Callout Style
+
+Use one style everywhere:
+
+┌─────────────────────┐
+│ Piezoelectric Layer │
+│ Description text    │
+└─────────────────────┘
+
+Background: #1E293B
+Border: Accent color
+Rounded corners: 12 px
+Publication-Ready Figure Captions
+
+Use below each image:
+
+Figure 1. Direct and inverse piezoelectric effects illustrating bidirectional conversion between mechanical and electrical energy.
+
+Figure 2. Structure of a piezoelectric element and comparison of commonly used piezoelectric materials, quartz and PZT.
+
+Figure 3. Common piezoelectric element geometries including disk, ring, plate, and multilayer stack configurations.
+
+Best practice
+
+Create a master template in PowerPoint, Figma, Illustrator, Inkscape, or Visio and duplicate it for every new figure. Keep:
+
+identical title position
+identical section header position
+identical footer position
+identical color mapping
+identical font hierarchy
+
+This will make the whole publication look like a single professionally designed figure set rather than independently created graphics.
+
+Create a reusable figure template
+
+A reusable figure template for your piezoelectric publication should prioritize visual consistency, academic readability, and easy duplication.
+
+Master Figure Template (Dark Mode, IEEE/Thesis Style)
+Color Palette
+Canvas
+Recommended Sizes
+
+For Thesis/Article
+
+1920 × 1080 px
+300 dpi export
+
+For Posters
+
+3840 × 2160 px
+
+For PowerPoint
+
+16:9 widescreen
+Master Layout
+┌─────────────────────────────────────────────┐
+│ Figure Title                                │
+│ Short introductory description              │
+├─────────────────────────────────────────────┤
+│                                             │
+│                                             │
+│            Main Content Area                │
+│                                             │
+│                                             │
+├─────────────────────────────────────────────┤
+│ Key Takeaway                                │
+└─────────────────────────────────────────────┘
+
+Height Allocation
+Typography
+Title
+Font: Aptos / Segoe UI / Inter
+Weight: Bold
+Size: 40–48 pt
+Color: #E5E7EB
+
+
+Example:
+
+Figure 1: Direct and Inverse Piezoelectric Effects
+
+Section Headers
+Weight: Semibold
+Size: 24–32 pt
+
+
+Example:
+
+1. Mechanical Stress → Electrical Energy
+
+Body Text
+Size: 18–22 pt
+Color: #CBD5E1
+
+Labels
+Size: 16–20 pt
+Color: #E5E7EB
+
+Panel Style
+
+Every sub-panel should use identical styling.
+
+Corner Radius: 12 px
+Border Width: 2 px
+Border Color: Accent Color
+Background: #1E293B
+Padding: 24 px
+
+
+Example:
+
+┌──────────────────────┐
+│ Compression          │
+│                      │
+│ Diagram              │
+│                      │
+│ Description          │
+└──────────────────────┘
+
+Diagram Standards
+Piezo Material
+
+Always:
+
+Silver ceramic body
+Gold electrodes
+Same dimensions and perspective
+Top Electrode  = Gold
+Piezo Layer    = Silver
+Bottom Electrode = Gold
+
+Charge Colors
+
+Always:
+
+Positive (+) = #F59E0B
+Negative (−) = #60A5FA
+
+Mechanical Force
+
+Always:
+
+Force Arrow = Orange
+Expansion = Green
+Contraction = Green
+
+Electrical Signals
+
+Always:
+
+Voltage = Blue
+Current Path = Blue
+Meters = Gray/Silver
+
+Reusable Two-Column Template
+
+Use for Figures 1 and 2.
+
+┌─────────────────────────────┬─────────────────────────────┐
+│ Left Panel                  │ Right Panel                 │
+│                             │                             │
+│ Diameter: 48%              │ Diameter: 48%              │
+└─────────────────────────────┴─────────────────────────────┘
+
+
+Examples:
+
+Reusable Four-Panel Template
+
+Use for Figure 3.
+
+┌──────────┬──────────┬──────────┬──────────┐
+│ Disk     │ Ring     │ Plate    │ Stack    │
+├──────────┼──────────┼──────────┼──────────┤
+│ Image    │ Image    │ Image    │ Image    │
+├──────────┼──────────┼──────────┼──────────┤
+│ Notes    │ Notes    │ Notes    │ Notes    │
+└──────────┴──────────┴──────────┴──────────┘
+
+
+All four panels must have:
+
+Shape image
+Short description
+Applications
+Key characteristic
+
+in the same order.
+
+Callout Template
+
+Use identical callouts throughout all figures.
+
+┌────────────────────┐
+│ Top Electrode      │
+│ Conductive layer   │
+└────────────────────┘
+
+
+Style:
+
+Background: #1E293B
+Border: Accent color
+Text: #E5E7EB
+Figure Caption Template
+
+Place below every figure.
+
+Figure 1
+
+Figure 1. Direct and inverse piezoelectric effects illustrating bidirectional energy conversion.
+
+Figure 2
+
+Figure 2. Structure of a piezoelectric element and comparison of quartz and PZT materials.
+
+Figure 3
+
+Figure 3. Common piezoelectric element geometries used in sensing and actuation applications.
+
+AI Prompt Template (Reusable)
+
+Use this exact prompt structure whenever generating new figures:
+
+Create an IEEE-style technical infographic on a dark background (#0F172A). Use Aptos or Inter typography, large readable fonts, vector-like illustrations, color-blind-friendly palette (blue #60A5FA, green #34D399, orange #F59E0B, purple #A78BFA), silver piezo materials with gold electrodes, consistent panel spacing, rounded corners, thesis-quality layout, publication-ready appearance, high contrast text (#E5E7EB and #CBD5E1), no empty space, and preserve the layout hierarchy: title, description, content panels, key takeaway.
+
+This template will keep all future figures visually consistent across a thesis, report, poster, or conference presentation.
